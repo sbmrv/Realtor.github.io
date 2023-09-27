@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App, vite](https://github.com/facebook/create-react-app).
 
 #Installation
+
 *Clone the repository OR download the folder
 
 *For client:
@@ -17,6 +18,7 @@ Runs the app in the development mode.\
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+
 *For server:
 1.Open server folder on terminal,
 2.To install dependencies from "package.json" use ### `yarn init`.
@@ -27,6 +29,9 @@ OR
 ### `yarn run start` to run the backend.
 3.server will start listening on port 8000:
 "server listening on port 8000"
+
+
+
 
 
 ### `npm test`
